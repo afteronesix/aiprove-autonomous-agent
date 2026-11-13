@@ -1,0 +1,27 @@
+[
+  {
+    "fn": "factorial",
+    "input": 5,
+    "expected": 120
+  },
+  {
+    "fn": "countVowels",
+    "input": "AEIOU",
+    "expected": 5
+  },
+  {
+    "fn": "titleCase",
+    "input": "don't",
+    "expected": "Don't"
+  },
+  {
+    "fn": "reverse",
+    "input": "ab\ud83d\ude00",
+    "expected": "\ud83d\ude00ba"
+  },
+  {
+    "fn": "isPalindrome",
+    "input": "\ud83d\ude00",
+    "expected": true
+  }
+]
